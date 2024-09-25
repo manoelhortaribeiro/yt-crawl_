@@ -1,0 +1,4 @@
+data/urls/
+data/
+.conda/
+.DS_Store
